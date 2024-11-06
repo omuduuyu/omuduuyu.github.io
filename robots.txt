@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omuduuyu.github.io/SiE/sitemap_index.txt
+Sitemap: https://omuduuyu.github.io/Tje/sitemap_index.txt
+Sitemap: https://omuduuyu.github.io/dlO/sitemap_index.txt
+Sitemap: https://omuduuyu.github.io/mOT/sitemap_index.txt
